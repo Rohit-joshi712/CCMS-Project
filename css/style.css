@@ -1,0 +1,27 @@
+.container .row #gallary{
+    width : 1030px;
+}
+
+#gallary img{
+    padding : 1px;
+    margin: 30px 70px;
+    border: 5px solid #e2dddd8c;
+    border-radius: 20px;
+}
+
+#social{
+    height: 100px;
+    background:#222;
+}
+
+#ull{
+    float: right;
+    font-size: 25px;
+
+}
+
+#copy p{
+    margin: 0 0 0 500px;
+    color: #fff;
+    font-size: 17px;
+}
